@@ -244,7 +244,7 @@ const handleSelectDay = (day: { dateStr: string; isPlaceholder: boolean }) => {
 }
 </script>
 
-<style lang="less" scoped>
+<style lang="less">
 .index {
   padding: 16px;
   background: #f5f6fa;
